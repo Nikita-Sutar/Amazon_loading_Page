@@ -1,0 +1,56 @@
+* {
+    color:white;
+    
+
+}
+div{
+      height: 60px;
+      background-color: black;
+}
+a{
+    margin-right: 150px;
+   font-size: larger;
+
+}
+button {
+            background-color: orange;
+            margin-left: 20px;
+        }
+        input{
+            color: black;
+            margin-left: 150px;
+            margin-top: 20px;
+        }
+
+        .n{
+            height: 100px;
+            width: 100px;
+            border: 19px solid #cdebcd;
+            border-radius: 50%;
+            border-top: 20px  black solid;
+            animation-name: animate;
+            animation-duration:1s;
+            animation-timing-function: ease-in;
+            animation-delay: 0s;
+            animation-iteration-count: infinite;
+            animation-direction: normal;
+            background-color: white;
+            position: absolute;
+            left: 500px;
+            top:200px
+           
+        }
+        @keyframes animate
+        {
+            from {
+                transform: rotate(0deg);
+        
+            }
+            to {
+                transform: rotate(360deg);
+            }
+        }
+    body
+    {
+        background-color: rgb(248, 244, 248);
+    }
