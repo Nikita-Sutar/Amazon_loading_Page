@@ -1,0 +1,1 @@
+# Using CSS animations, I created a simple loading page  Amazon.
