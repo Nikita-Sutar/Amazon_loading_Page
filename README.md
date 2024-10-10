@@ -1,1 +1,1 @@
-# Using CSS animations, I created a simple loading page  Amazon.
+# Using CSS Animation Property, I created a simple "Amazon loading page" .
